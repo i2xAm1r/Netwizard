@@ -22,7 +22,7 @@ By default, the app comes with a list of popular DNS servers in Iran.
 | Electro DNS  | 78.157.42.100,78.157.42.101 |
 
 ## How to Use
-<b>1. Download and launch the application. [NetWizard.exe](https://github.com/i2xAm1r/NetWizard/blob/main/NetWizard.exe)<b><br>
+<b>1. Download and launch the application. [NetWizard.exe](https://github.com/i2xAm1r/Netwizard/releases/download/network/NetWizard.exe)<b><br>
 <b>2. If features such as DNS are not applied, open the program with run as administrator<b><br>
 <b>3. The wifi password feature does not work on LAN, only wifi<b>
 
